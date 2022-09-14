@@ -1,8 +1,8 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy "Jekyll-GitHub" Pages dependencies preinstalled
+name: Deploy "Jekyll GitHub Pages dependencies preinstalled
 
 on:
- # Runs pushes on the default branches
+ # Runs the pushes on default branches
   push:
     branches: ["main"]
   # Allows you to run this workflow manually from the Actions tab
