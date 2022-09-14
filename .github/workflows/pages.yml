@@ -2,7 +2,7 @@
 name: Deploy "Jekyll GitHub Pages dependencies preinstalled
 
 on:
- # Runs the pushes on default branches
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
   # Allows you to run this workflow manually from the Actions tab
