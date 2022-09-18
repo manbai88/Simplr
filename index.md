@@ -1,7 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 <head profile="http://gmpg.org/xfn/11">
-<title>Simplr &middot; An explanation</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Simplr: Your content, but simplified." />
 <meta name="keywords" content="Simplr, theme, wordpress, plaintxt.org, semantics, widgets, hatom, hcard, xfn" />
